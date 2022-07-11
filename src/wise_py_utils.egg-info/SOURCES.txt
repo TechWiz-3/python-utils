@@ -1,9 +1,9 @@
 README.md
 setup.py
-src/datetime-utils/__init__.py
-src/datetime-utils/get_day.py
-src/processor-utils/__init__.py
-src/processor-utils/process.py
+src/datetimeutils/__init__.py
+src/datetimeutils/get_day.py
+src/processorutils/__init__.py
+src/processorutils/process.py
 src/wise_py_utils.egg-info/PKG-INFO
 src/wise_py_utils.egg-info/SOURCES.txt
 src/wise_py_utils.egg-info/dependency_links.txt
