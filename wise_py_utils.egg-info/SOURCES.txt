@@ -1,0 +1,6 @@
+README.md
+setup.py
+wise_py_utils.egg-info/PKG-INFO
+wise_py_utils.egg-info/SOURCES.txt
+wise_py_utils.egg-info/dependency_links.txt
+wise_py_utils.egg-info/top_level.txt
