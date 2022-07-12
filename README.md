@@ -64,7 +64,7 @@ Get the day based on the weekday number using the `get_weekday_from_number() cla
 1
 >>> print(GetDay.get_weekday_from_number(number))
 'Tuesday'
-``
+```
 
 # Enter typos
 
